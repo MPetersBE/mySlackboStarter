@@ -1,0 +1,3 @@
+slackclient
+watson-developer-cloud
+httplib2
