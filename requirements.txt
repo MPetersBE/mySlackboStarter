@@ -1,3 +1,4 @@
 slackclient
 watson-developer-cloud
 httplib2
+oauth2client
