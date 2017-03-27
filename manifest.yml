@@ -1,9 +1,9 @@
 applications:
 - path: .
-  memory: 128M
+  memory: 512M
   instances: 1
   domain: mybluemix.net
   name: mySlackboStarter
   host: mySlackboStarter
   disk_quota: 1024M
-  timeout: 30
+  timeout: 180
