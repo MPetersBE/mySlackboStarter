@@ -6,4 +6,4 @@ applications:
   name: mySlackboStarter
   host: mySlackboStarter
   disk_quota: 1024M
-  timeout: 240
+  timeout: 180
